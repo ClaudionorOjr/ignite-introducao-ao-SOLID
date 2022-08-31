@@ -39,7 +39,7 @@ yarn dev
 
 ## Chapter II
 
-### [Desafio 01 – Introdução ao SOLID](https://github.com/ClaudionorOjr/ignite-introducao-ao-SOLID)
+### [Desafio 01 – Introdução ao SOLID](https://github.com/ClaudionorOjr/ignite-introducao-ao-SOLID) 🌟
 
 [Instruções para o desafio](https://www.notion.so/Desafio-01-Introdu-o-ao-SOLID-3b9be286fac0482ca3b275473ddd2d72)
 
